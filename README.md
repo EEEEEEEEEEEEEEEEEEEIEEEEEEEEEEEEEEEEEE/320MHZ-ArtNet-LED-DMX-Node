@@ -1,5 +1,5 @@
-# ESP8266 ArtNet-LED-DMX-Node [![GitHub release](https://img.shields.io/github/release/bombcheck/ESP8266_ArtNet-LED-DMX-Node.svg)](https://github.com/bombcheck/ESP8266_ArtNet-LED-DMX-Node/releases/latest)
-ESP8266 based WiFi ArtNet V4 to DMX, RDM and LED Pixels.
+# ESP8266 ArtNet-LED-DMX-Node [![GitHub release](https://img.shields.io/github/release/bombcheck/ESP8266_ArtNet-LED-DMX-Node.svg)](https://github.com/EEEEEEEEEEEEEEEEEEEIEEEEEEEEEEEEEEEEEE/ESP8266-ArtNet-LED-DMX-Node-YELLOW/releases)
+ESP8266-based 5G ArtNet to DMX, RDM and LED pixels.
 
 Forked this from the great work of [bombcheck](https://github.com/bombcheck/ESP8266_ArtNet-LED-DMX-Node) I ADDED 320MHZ TO LINK MY 5G BASE STATION
 
