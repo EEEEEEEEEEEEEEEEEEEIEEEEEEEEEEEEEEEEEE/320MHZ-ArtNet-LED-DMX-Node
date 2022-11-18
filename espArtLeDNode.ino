@@ -29,12 +29,10 @@ extern "C" {
   extern struct rst_info resetInfo;
 }
 
-#define FIRMWARE_VERSION "v1.0.4"
+#define FIRMWARE_VERSION "v1.0.6"
 #define ART_FIRM_VERSION 0x0200   // Firmware given over Artnet (2 bytes)
 
 
-//#define ESP_01              // Un comment for ESP_01 board settings
-//#define NO_RESET            // Un comment to disable the reset button
 
 // Wemos boards use 4M (3M SPIFFS) compiler option
 
