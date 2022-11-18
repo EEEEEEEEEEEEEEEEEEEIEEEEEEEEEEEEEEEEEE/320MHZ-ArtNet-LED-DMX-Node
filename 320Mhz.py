@@ -2,7 +2,7 @@ from machine import Pin, SPI
 
 class DMX512(object):
   def __init__(self):
-    self.spi = SPI(1, baudrate=200000, polarity=0, phase=0) #MOSI=GPIO13, MISO=GPIO12, SCK=GPIO14
+    self.spi = SPI(1, baudrate=200000, polarity=0, phase=0) 
     self.csb = Pin(16, Pin.OUT, value=1)
     self._reg = bytearray(62)
 
