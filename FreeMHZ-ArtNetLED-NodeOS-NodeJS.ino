@@ -1,6 +1,6 @@
 /*
-320MHZ-ArtNet-LED-DMX-Node
-https://github.com/EEEEEEEEEEEEEEEEEEEIEEEEEEEEEEEEEEEEEE/320MHZ-ArtNet-LED-DMX-Node/
+FreeMHZ-ArtNetLED-NodeOS-NodeJS
+https://github.com/EEEEEEEEEEEEEEEEEEEIEEEEEEEEEEEEEEEEEE/FreeMHZ-ArtNetLED-NodeOS-NodeJS/
 
 Forked from: https://github.com/bombcheck/ESP8266_ArtNet-LED-DMX-Node
 
